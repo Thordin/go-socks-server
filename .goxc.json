@@ -1,0 +1,11 @@
+{
+	"ArtifactsDest": ".",
+	"Tasks": [
+		"xc",
+        "archive"
+	],
+	"Arch": "386",
+	"Os": "windows darwin linux",
+	"Resources": {},
+	"FormatVersion": "0.6"
+}

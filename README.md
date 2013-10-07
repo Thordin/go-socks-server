@@ -4,6 +4,10 @@ go-socks-server
 Socks5 server in go. This was written in idiomatic Go with 2 goroutines per connection. One for handling inbound and another for 
 outbound traffic. 
 
+Binaries are provided on the release page.
+
+https://github.com/Thordin/go-socks-server/releases 
+
 ### Usage ###
 
     socks [optional binding address. Default is 127.0.0.1:8085]
